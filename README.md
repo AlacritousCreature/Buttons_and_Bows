@@ -2,7 +2,7 @@
 An online Handmade Gifts shopping website, made for my friend's gift shop :)
 
 visit it on:
-https://buttons-and-bows.netlify.app/
+https://buttons-and-bows.netlify.app/ or  https://alacritouscreature.github.io/Buttons_and_Bows/index.html
 
 
 
